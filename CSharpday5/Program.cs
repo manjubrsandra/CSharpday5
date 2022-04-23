@@ -11,6 +11,8 @@ namespace CSharpday5
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD");
+            Flipcoin.FindFlipcoin();
+            Console.ReadKey();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
         }
     }
 }
