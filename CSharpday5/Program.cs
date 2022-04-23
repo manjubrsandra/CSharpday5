@@ -13,7 +13,7 @@ namespace CSharpday5
             Console.WriteLine("HELLO WORLD");
             Flipcoin.FindFlipcoin();
             Leapyear.Yearmethod();
-            Leapyear.Yearmethod();
+            Reversenum.Findreverse();
             Console.ReadKey();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
         }
     }
