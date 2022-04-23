@@ -12,6 +12,8 @@ namespace CSharpday5
         {
             Console.WriteLine("HELLO WORLD");
             Flipcoin.FindFlipcoin();
+            Leapyear.Yearmethod();
+            Leapyear.Yearmethod();
             Console.ReadKey();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
         }
     }
